@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Hardhat fundme in typescript
 
 This project demonstrates a basic crowdfunding smart contract written in solidity, deployed with typescript.
 Includes unit and staging tests, coverage, gas reports, solidity code verification on etherscan.
